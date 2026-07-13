@@ -1,0 +1,4 @@
+duckduckgo-search
+gradio
+beautifulsoup4
+requests
